@@ -1,0 +1,155 @@
+body{
+  text-align: center;
+  margin: auto;
+  font-family: sans-serif;
+
+}
+table{
+  margin: auto;
+  padding: 0;
+
+}
+
+td{
+  padding: 2rem 2rem 0;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+img{
+  width: 15rem;
+}
+
+#div1{
+  background-color: #fff3b2;
+}
+#rollbtn{
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+#div2{
+  background-color: #ff9b93;
+  padding-bottom: 3rem;
+}
+h1{
+  background-color: #4e8d7c;
+  margin: 0 auto;
+  padding: 2rem;
+  font-size: 3rem;
+  color:white;
+}
+.btn{
+  margin-bottom: 2rem;
+}
+.btn {
+   background: #4E8D7C;
+   background-image: -webkit-linear-gradient(top, #4E8D7C, #4E8D7C);
+   background-image: -moz-linear-gradient(top, #4E8D7C, #4E8D7C);
+   background-image: -ms-linear-gradient(top, #4E8D7C, #4E8D7C);
+   background-image: -o-linear-gradient(top, #4E8D7C, #4E8D7C);
+   background-image: -webkit-gradient(to bottom, #4E8D7C, #4E8D7C);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   width: 200px;
+   font-size: 16px;
+   font-weight: 600;
+   padding: 8px;
+   -webkit-box-shadow: 1px 1px 20px 0 #FFF3B2;
+   -moz-box-shadow: 1px 1px 20px 0 #FFF3B2;
+   box-shadow: 1px 1px 20px 0 #FFF3B2;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #FF9B93;
+   background-image: -webkit-linear-gradient(top, #FF9B93, #DF6960);
+   background-image: -moz-linear-gradient(top, #FF9B93, #DF6960);
+   background-image: -ms-linear-gradient(top, #FF9B93, #DF6960);
+   background-image: -o-linear-gradient(top, #FF9B93, #DF6960);
+   background-image: -webkit-gradient(to bottom, #FF9B93, #DF6960);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.rlbtn {
+   background: #52BCB4;
+   background-image: -webkit-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -moz-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -ms-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -o-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -webkit-gradient(to bottom, #52BCB4, #52BCB4);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   width: 200px;
+   font-size: 16px;
+   font-weight: 600;
+   padding: 8px;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.rlbtn:hover {
+   border: solid #4387EA 1px;
+   background: #21209C;
+   background-image: -webkit-linear-gradient(top, #21209C, #4746CC);
+   background-image: -moz-linear-gradient(top, #21209C, #4746CC);
+   background-image: -ms-linear-gradient(top, #21209C, #4746CC);
+   background-image: -o-linear-gradient(top, #21209C, #4746CC);
+   background-image: -webkit-gradient(to bottom, #21209C, #4746CC);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+#rollbtn{
+  color:white;
+  font-family: sans-serif;
+  margin: 2rem auto;
+}
+
+.namebtn {
+   background: #52BCB4;
+   background-image: -webkit-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -moz-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -ms-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -o-linear-gradient(top, #52BCB4, #52BCB4);
+   background-image: -webkit-gradient(to bottom, #52BCB4, #52BCB4);
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   height: 50px;
+   line-height: 50px;
+   color: #FFFFFF;
+   font-family: Sans-serif;
+   width: 200px;
+   font-size: 16px;
+   font-weight: 600;
+   padding: 8px;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 2rem;
+}
